@@ -22,7 +22,7 @@
     "jsoneditor-react": "^3.0.0",
     "jsonld-graph": "^3.0.10",
     "msal": "^1.2.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "office-ui-fabric-react": "^7.117.4",
     "react": "^16.13.1",
     "react-console-emulator": "^4.0.1",
